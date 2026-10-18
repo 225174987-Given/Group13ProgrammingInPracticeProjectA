@@ -10,7 +10,7 @@
 ##  Group Members & Module Allocation
 * **Student 1 (225174987-given):** Employee Management Module
 * **Student 2 (224097369-quentos):** Budget Management Module
-* **Student 3 ():** Supplier Management Module
+* **Student 3 (222132892-hukura):** Supplier Management Module
 * **Student 4 (225164922-mahoshi):** Asset Register Module
 * **Student 5 (225083108-josephat):** Reports Summary Module
 * **Student 6 ():** Structural Functions & System Validation
