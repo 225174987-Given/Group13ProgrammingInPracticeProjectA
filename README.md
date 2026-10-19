@@ -12,8 +12,8 @@
 * **Student 2 (224097369-quentos):** Budget Management Module
 * **Student 3 (222132892-hukura):** Supplier Management Module
 * **Student 4 (225164922-mahoshi):** Asset Register Module
-* **Student 5 (225083108-josephat):** Reports Summary Module
-* **Student 6 ():** Structural Functions & System Validation
+* **Student 5 (lennonkandambo-netizen):** Reports Summary Module
+* **Student 6 (225083108-josephat):** Structural Functions & System Validation
 * **Student 7 (226009742-mbambi):** Integration Testing, Documentation & Git Coordination
 
 ##  Compilation and Execution Instructions
