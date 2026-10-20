@@ -40,7 +40,7 @@ The application implements strict boundary validation rules across all modules:
 2. **Financial Data Guard:** Data structural layers cleanly halt execution and reject any negative salary or budget figures.
 3. **String Safety:** Uses standard string processing (`strcmp`, `strlen`) to ensure query matching and buffer protection across indexing components.
 
-Individual Contribution Record — Student 6
+### Individual Contribution Record — Student 6
 • Assigned Role: System Functions, Integration, and Data Validation Lead.
 • Modules/Functions Developed:
 ◦ Designed and built the global system architecture entry hub (01_main.c) handling nested menu control routing loops for all modules.
