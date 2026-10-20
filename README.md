@@ -39,3 +39,13 @@ The application implements strict boundary validation rules across all modules:
 1. **Menu Interface Check:** Alphanumeric inputs or choice selections out of bounds do not crash the menu lifecycle.
 2. **Financial Data Guard:** Data structural layers cleanly halt execution and reject any negative salary or budget figures.
 3. **String Safety:** Uses standard string processing (`strcmp`, `strlen`) to ensure query matching and buffer protection across indexing components.
+
+Individual Contribution Record — Student 6
+• Assigned Role: System Functions, Integration, and Data Validation Lead.
+• Modules/Functions Developed:
+◦ Designed and built the global system architecture entry hub (01_main.c) handling nested menu control routing loops for all modules.
+◦ Engineered input sanitation methods by standardizing input buffer flushes (while(getchar()!='\n')) across structural switch conditions to prevent application crash loops.
+◦ Implemented the shared system color variables (02_common.h) to enforce unified CLI aesthetics across the program framework.
+• Integration Strategies Implemented:
+◦ Successfully debugged cross-module link errors by fixing structural incompatibilities between the Employee Management parallel arrays and the Reports generation logic (12_Report.c).
+◦ Resolved compile-time scope exceptions through targeted explicit forward function prototyping across the multi-file build system.
